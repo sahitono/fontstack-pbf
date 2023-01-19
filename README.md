@@ -1,0 +1,1 @@
+Fontstack for glyph in mapbox and its variant
